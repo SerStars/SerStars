@@ -5,7 +5,7 @@
 - Bot Developer and Server Owner.
 - You can find all my stuff at my website [(click here)](https://serstars.github.io/).
 - I speak 3 languages, Dutch 🇳🇱, English 🇺🇸 and Turkish 🇹🇷.
-- I live in The Netherlands 🇳🇱
+- I live in The Netherlands 🇳🇱.
 
 ## Currently on Discord I'm...
 [![](https://discord.c99.nl/widget/theme-3/861631850681729045.png)](https://serstars.github.io/)
