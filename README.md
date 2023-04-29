@@ -11,4 +11,5 @@
 ## Currently on Discord I'm...
 [![](https://discord.c99.nl/widget/theme-3/861631850681729045.png)](https://serstars.github.io/)
 
-
+## My GitHub Stats:
+![SerStars's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerStars&show_icons=true&bg_color=00000000)
