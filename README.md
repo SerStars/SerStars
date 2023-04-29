@@ -13,4 +13,4 @@
 ## My GitHub Stats:
 ![SerStars's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerStars&show_icons=true&bg_color=00000000)
 
-[![](https://skillicons.dev/icons?i=discord,twitter,vscode,github,py)](https:serstars.github.io/)
+[![](https://skillicons.dev/icons?i=discord,twitter,vscode,github,py)](https://serstars.github.io/)
