@@ -8,7 +8,7 @@
 - I live in The Netherlands 🇳🇱.
 
 ## Currently on Discord I'm...
-[![]((https://lanyard.cnrad.dev/api/861631850681729045)](https://serstars.github.io/3)](https://serstars.github.io/3)
+[![](https://lanyard.cnrad.dev/api/861631850681729045)](https://serstars.github.io/3)](https://serstars.github.io/3)
 
 ## My GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=SerStars&show_icons=true&bg_color=00000000)](https://serstars.github.io/3)
