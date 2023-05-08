@@ -14,3 +14,5 @@
 [![](https://github-readme-stats.vercel.app/api?username=SerStars&show_icons=true&bg_color=00000000)](https://serstars.github.io/3)
 
 [![](https://skillicons.dev/icons?i=discord,twitter,vscode,github,py)](https://serstars.github.io/3)
+
+![Snake animation of GitHub contribution stats](https://raw.githubusercontent.com/SerStars/SerStars/output/snake.svg)
