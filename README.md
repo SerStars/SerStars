@@ -2,7 +2,7 @@
 
 # Hi lol
 - I'm SerStars
-- Bot Developer and Server Owner.
+- Bot Developer and Server Owner and i develope other things lol.
 - You can find all my stuff at my website [(click here)](https://serstars.github.io/3).
 - I speak 3 languages, Dutch 🇳🇱, English 🇺🇸 and Turkish 🇹🇷.
 - I live in The Netherlands 🇳🇱.
