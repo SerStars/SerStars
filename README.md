@@ -11,7 +11,7 @@
 
 - I like to use ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white) and love ![Music](https://img.shields.io/badge/Music-FA2D2F?style=flat-square&logo=AppleMusic&logoColor=white)
 
-  ![MyDiscord](https://lanyard.cnrad.dev/api/861631850681729045) <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000138.13eadcefbc8a4a54b91f2857c2309f4c.2018" alt="AppleMusic" width="150"/>
+  ![MyDiscord](https://lanyard.cnrad.dev/api/861631850681729045)
 
 - GitHub Stats:
 
