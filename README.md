@@ -7,7 +7,7 @@
 - 👨‍💻 Love to contribute on other projects
 - 🌍 I speak 3 languages, English, Dutch and Turkish
 
-- Languages I like use: ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
+- Languages I like to use: ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
 
 - I like to use ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white) and love ![Music](https://img.shields.io/badge/Music-FA2D2F?style=flat-square&logo=AppleMusic&logoColor=white)
 
