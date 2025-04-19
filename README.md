@@ -3,15 +3,14 @@
 <h1 align="center"> i'm SerStars ♡</h1>
 
 - 🔭 Currently working on multiple projects
-- 🌐 [Visit my website ^^](https://serstars.is-a.dev)
-- 👨‍💻 Love to contribute on other projects
+- 🌐 [Visit my totally stable api](https://serstars.is-a.dev)
+- 👨‍💻 Love to contribute on random projects
 - 🌍 I speak 3 languages, English, Dutch and Turkish
+- Boring asf
 
 - Languages I like to use: ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white)
 
 - I like to use ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white) and love ![Music](https://img.shields.io/badge/Music-FA2D2F?style=flat-square&logo=AppleMusic&logoColor=white)
-
-  ![MyDiscord](https://lanyard.cnrad.dev/api/861631850681729045)
 
 - GitHub Stats:
 
